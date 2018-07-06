@@ -73,16 +73,21 @@ describe "sum" do
   end
 end
 
-# Extra Credit Test-Driving Bonus:
-# once the above tests pass,
-# write tests and code for the following:
+# Let's write some tests !
+# we'll show you the first, you will write the others :)
 
 describe "#multiply" do
 
-  it "multiplies two numbers"
+  it "multiplies two numbers" do
+    expect(multiply(3, 4).to eq(12))
+  end
 
-  it "multiplies several numbers"
-  
+  it "multiplies two other numbers"
+    # one other test here, don't forget do end ;)
+
+  it "multiplies two other numbers, one of them being 0"
+    # one last test, with 0 in it
+
 end
 
 describe "#power" do
