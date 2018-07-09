@@ -30,7 +30,6 @@ To work through the first exercise, follow this process
 5. This will output that one test has passed and another test failure, write the code to make the next test pass.
 4. Continue this process until all tests pass (when they are green) you have now completed the exercise.
 5. Do this for all the exercises in this project
-5. To get hints and tips about each exercise, view the `index.html` file that is included in each exercise folder
 
 
 Basically, this is "error-driven development"... you'll keep running tests, hitting error messages, fixing those messages, running more tests...  It is meant to not only test your Ruby skills but also get you comfortable seeing big scary looking stack traces and error messages.  Most of the development you do at first will be just like this.  In fact, most of *all* development is error-driven.  So get comfortable with it!
