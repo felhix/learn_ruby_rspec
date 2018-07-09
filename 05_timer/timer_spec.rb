@@ -1,4 +1,3 @@
-
 require 'timer'
 
 describe 'time_string' do
